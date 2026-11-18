@@ -412,8 +412,4 @@ All 6 output CSVs will appear in `data/cleaned/`
 
 ---
 
-## Author
 
-**Ashish Kumar Dongre**
-
-[LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; [GitHub](https://github.com/analytics-ak)
